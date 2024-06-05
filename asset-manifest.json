@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b40e769d.css",
+    "main.js": "/static/js/main.38bfbc68.js",
+    "static/js/453.cda287c7.chunk.js": "/static/js/453.cda287c7.chunk.js",
+    "static/media/1bg.png": "/static/media/1bg.f7bc1334a2fddce91c87.png",
+    "static/media/banner-bg.png": "/static/media/banner-bg.42593a27db9dc3e02d08.png",
+    "static/media/3bg.png": "/static/media/3bg.bd8443e82c312631c66c.png",
+    "static/media/form-bg.png": "/static/media/form-bg.bcbbf0e2355511ad94d7.png",
+    "static/media/2bg.png": "/static/media/2bg.fcd7390bdd0be0057343.png",
+    "static/media/about.png": "/static/media/about.8f8d38f05d49f2bfc729.png",
+    "static/media/4bg.png": "/static/media/4bg.ee52623244dd367d0acf.png",
+    "static/media/Satoshi-Medium.ttf": "/static/media/Satoshi-Medium.759562088ba19068aef8.ttf",
+    "static/media/Satoshi-Regular.ttf": "/static/media/Satoshi-Regular.fe762acc7e97cb612805.ttf",
+    "static/media/Satoshi-Bold.ttf": "/static/media/Satoshi-Bold.137a52d9f47dd71c6247.ttf",
+    "static/media/Satoshi-Black.ttf": "/static/media/Satoshi-Black.464354ba5a06467ecac5.ttf",
+    "static/media/Satoshi-Light.ttf": "/static/media/Satoshi-Light.22ef061781b1162ac317.ttf",
+    "static/media/Satoshi-Medium.woff": "/static/media/Satoshi-Medium.2419b46c96ed15331ba2.woff",
+    "static/media/Satoshi-Regular.woff": "/static/media/Satoshi-Regular.ca3da5fd2b609836ef69.woff",
+    "static/media/Satoshi-Bold.woff": "/static/media/Satoshi-Bold.a875ff682ee232938607.woff",
+    "static/media/Satoshi-Black.woff": "/static/media/Satoshi-Black.4261d202e1e9410db1bf.woff",
+    "static/media/Satoshi-Light.woff": "/static/media/Satoshi-Light.67e7fa77f107df3491b6.woff",
+    "static/media/Satoshi-Medium.woff2": "/static/media/Satoshi-Medium.1ffe968245568e8ba1e7.woff2",
+    "static/media/Satoshi-Regular.woff2": "/static/media/Satoshi-Regular.9ec05085c4cd2966eba8.woff2",
+    "static/media/Satoshi-Bold.woff2": "/static/media/Satoshi-Bold.a0e6d25529eab537426c.woff2",
+    "static/media/Satoshi-Black.woff2": "/static/media/Satoshi-Black.b5013d854bb5a8e48651.woff2",
+    "static/media/Satoshi-Light.woff2": "/static/media/Satoshi-Light.df8f06167ee6fd05a131.woff2",
+    "static/media/bright.jpeg": "/static/media/bright.d1e8cc8cfa5ddad9a340.jpeg",
+    "static/media/bg-line-left.png": "/static/media/bg-line-left.20d0bb575574227aa3a3.png",
+    "static/media/bg-line-right.png": "/static/media/bg-line-right.7d7d1588c46367a824b6.png",
+    "static/media/goodness.jpeg": "/static/media/goodness.90b942e09044209046ee.jpeg",
+    "static/media/quotas-bg.png": "/static/media/quotas-bg.a2921687839e28dd5d71.png",
+    "index.html": "/index.html",
+    "main.b40e769d.css.map": "/static/css/main.b40e769d.css.map",
+    "main.38bfbc68.js.map": "/static/js/main.38bfbc68.js.map",
+    "453.cda287c7.chunk.js.map": "/static/js/453.cda287c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b40e769d.css",
+    "static/js/main.38bfbc68.js"
+  ]
+}
