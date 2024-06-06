@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.b40e769d.css",
-    "main.js": "/static/js/main.38bfbc68.js",
+    "main.css": "/static/css/main.6d8b0d09.css",
+    "main.js": "/static/js/main.5ad27837.js",
     "static/js/453.cda287c7.chunk.js": "/static/js/453.cda287c7.chunk.js",
     "static/media/1bg.png": "/static/media/1bg.f7bc1334a2fddce91c87.png",
-    "static/media/banner-bg.png": "/static/media/banner-bg.42593a27db9dc3e02d08.png",
     "static/media/3bg.png": "/static/media/3bg.bd8443e82c312631c66c.png",
+    "static/media/banner-bg.jpeg": "/static/media/banner-bg.562a8a24950d52c68a43.jpeg",
     "static/media/form-bg.png": "/static/media/form-bg.bcbbf0e2355511ad94d7.png",
     "static/media/2bg.png": "/static/media/2bg.fcd7390bdd0be0057343.png",
     "static/media/about.png": "/static/media/about.8f8d38f05d49f2bfc729.png",
@@ -31,12 +31,12 @@
     "static/media/goodness.jpeg": "/static/media/goodness.90b942e09044209046ee.jpeg",
     "static/media/quotas-bg.png": "/static/media/quotas-bg.a2921687839e28dd5d71.png",
     "index.html": "/index.html",
-    "main.b40e769d.css.map": "/static/css/main.b40e769d.css.map",
-    "main.38bfbc68.js.map": "/static/js/main.38bfbc68.js.map",
+    "main.6d8b0d09.css.map": "/static/css/main.6d8b0d09.css.map",
+    "main.5ad27837.js.map": "/static/js/main.5ad27837.js.map",
     "453.cda287c7.chunk.js.map": "/static/js/453.cda287c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b40e769d.css",
-    "static/js/main.38bfbc68.js"
+    "static/css/main.6d8b0d09.css",
+    "static/js/main.5ad27837.js"
   ]
 }
